@@ -6,3 +6,9 @@ Este repositorio tiene algunas cosas de autoría propia, fruto del curso de mach
 
 Saludos, 
 Pablo. 
+---
+> **Contenido**
+> 
+> - *librerias_ML.pdf* // Breve resumen de librerias para trabajar en machine learning.
+> 
+> - *one_hot_encoder.ipynb* // Notebook con explicación de One Hot Encoder y un ejemplo práctico.  
