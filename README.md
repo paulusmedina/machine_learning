@@ -6,6 +6,7 @@ Este repositorio tiene algunas cosas de autoría propia, fruto del curso de mach
 
 Saludos, 
 Pablo. 
+
 ---
 > **Contenido**
 > 
